@@ -1,0 +1,94 @@
+insert into ACCRLNK_DISCIPLINE VALUES(1,'0','','','Registered Nurses (RNs)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(2,'0','','','Doctors (Osteopathic Medicine)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(3,'0','','','Sleep disorders specialist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(4,'0','','','Home Health Aides (HHAs)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(5,'0','','','Licensed Vocational Nurse (LVN)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(6,'0','','','Physicians Assistant','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(7,'0','','','Occupational Therapists (OTs)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(8,'0','','','Speech Language Pathologists (STs)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(9,'0','','','Licensed Practical Nurses (LPNs)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(10,'0','','','Medical Assistant (MA)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(11,'0','','','Physical Therapists (PTs)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(12,'0','','','Doctors (MD)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(13,'0','','','Internist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(14,'0','','','Nurse Practioner ','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(15,'0','','','Medical Social Workers (MSWs)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(16,'0','','','Certified Nursing Assistant (CNA)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(17,'0','','','Family medicine physician','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(18,'0','','','Orthopedist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(19,'0','','','Addiction psychiatrist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(20,'0','','','Endocrinologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(21,'0','','','Adolescent medicine specialist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(22,'0','','','Gastroenterologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(23,'0','','','Hematologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(24,'0','','','Gynecologic oncologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(25,'0','','','Rheumatologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(26,'0','','','Psychiatrist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(27,'0','','','Pediatrician','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(28,'0','','','Hand surgeon','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(29,'0','','','Hepatologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(30,'0','','','Urologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(31,'0','','','Otolaryngologist (ear, nose, and throat specialist)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(32,'0','','','Developmental pediatrician','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(33,'0','','','Cardiologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(34,'0','','','Geriatric medicine specialist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(35,'0','','','Oncologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(36,'0','','','Ophthalmologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(37,'0','','','Dermatologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(38,'0','','','Hospice and palliative medicine specialist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(39,'0','','','Spinal cord injury specialist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(40,'0','','','Pain management specialist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(41,'0','','','Allergist (immunologist)','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(42,'0','','','Gynecologist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(43,'0','','','Hospitalist','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(44,'0','','','Nurse Practioner','','');
+
+insert into ACCRLNK_DISCIPLINE VALUES(45,'0','','','Personal Care Aides (PCAs)','','');
+
+
+
+
+

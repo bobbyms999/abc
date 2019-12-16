@@ -1,0 +1,27 @@
+drop table accrlnk_users;
+
+drop table accrlnk_employee_agency;
+
+drop table accrlnk_employee_bg_details;
+
+drop table accrlnk_bg_datebase;
+
+drop table accrlnk_data_feed_employee;
+
+drop table accrlnk_employee;
+
+drop table accrlnk_address;
+
+drop table accrlnk_agency;
+
+drop table accrlnk_alias;
+
+drop table accrlnk_discipline;
+
+
+
+
+
+
+
+
